@@ -25,7 +25,7 @@ SECRET_KEY = '(_9ium4t+c#!m#df_qi!_994k&83gyi$+w1zadk&^!*j+&x8hu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.zhouweiyu.cn','106.14.153.243']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
